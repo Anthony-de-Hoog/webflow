@@ -1,1 +1,1 @@
-MyScript.js
+alert("welkom op mijn pagina");
